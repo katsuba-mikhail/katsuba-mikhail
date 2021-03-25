@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @katsuba-mikhail
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on Data Analysis
+- 📫 How to reach me katsuba.michael@gmail.com
